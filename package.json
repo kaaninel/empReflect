@@ -1,0 +1,35 @@
+{
+  "name": "emp-reflect",
+  "version": "0.0.2",
+  "description": "Async Server/Client Command Interface. Designed for Empati.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaaninel/empReflect.git"
+  },
+  "keywords": [
+    "empati",
+    "async",
+    "socket",
+    "send",
+    "get",
+    "command",
+    "run",
+    "receive",
+    "return",
+    "promise"
+  ],
+  "author": "Kaan Inel <kaaninel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaaninel/empReflect/issues"
+  },
+  "homepage": "https://github.com/kaaninel/empReflect#readme",
+  "dependencies": {
+    "asynclock": "^1.0.1",
+    "jsonfn": "^0.31.0"
+  }
+}
