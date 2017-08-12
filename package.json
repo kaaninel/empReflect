@@ -29,7 +29,6 @@
   },
   "homepage": "https://github.com/kaaninel/empReflect#readme",
   "dependencies": {
-    "asynclock": "^1.0.1",
-    "jsonfn": "^0.31.0"
+    "asynclock": "^1.0.1"
   }
 }
