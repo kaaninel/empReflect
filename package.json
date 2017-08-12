@@ -1,6 +1,6 @@
 {
   "name": "emp-reflect",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Async Server/Client Command Interface. Designed for Empati.",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/kaaninel/empReflect#readme",
   "dependencies": {
-    "asynclock": "^1.0.1"
+    "asynclock": "^1.0.1",
+    "jsonfn": "^0.31.0"
   }
 }
